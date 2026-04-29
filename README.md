@@ -1,4 +1,4 @@
-# Huffman-Shannon_fano
+# Experimental verification of Source Coding Theorem
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
 Apply the Huffman and Shannon-Fano to this source. 
@@ -8,7 +8,6 @@ Calculate the average code word length, entropy, variance, redundancy, and effic
 Python IDE with Numpy and Scipy libraries or Colab
 # Program:
 ```
-# Experimental verification of Huffman and Shanon fano code
 # Huffman Coding and Shannon-Fano Coding for given source probabilities
 # Google Colab Compatible Code
 
