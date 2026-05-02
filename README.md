@@ -215,8 +215,14 @@ print("\nComparison Complete.")
 print("=" * 60)
 ```
 # Calculation:
-<img width="886" height="1240" alt="image" src="https://github.com/user-attachments/assets/5aa90f90-0b92-4ba2-81be-20157d5de622" />
-<img width="886" height="314" alt="image" src="https://github.com/user-attachments/assets/74ac034f-1459-456f-9033-ae8c56fe66a7" />
+# 1. Huffman coding
+<img width="769" height="633" alt="image" src="https://github.com/user-attachments/assets/0f6b1395-6c19-4ad6-a4be-89eef74a0493" />
+
+# 2. shannon coding
+<img width="1152" height="1091" alt="image" src="https://github.com/user-attachments/assets/718b3f3b-7e8f-479f-a91c-fb5b8c0913e3" />
+
+# 3. Other calculations
+<img width="769" height="719" alt="image" src="https://github.com/user-attachments/assets/586b28b1-4d77-49b1-afea-3cfe446d34c3" />
 
 
 # Output
