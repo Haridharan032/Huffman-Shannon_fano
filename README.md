@@ -215,7 +215,9 @@ print("\nComparison Complete.")
 print("=" * 60)
 ```
 # Calculation:
-<img width="886" height="1554" alt="image" src="https://github.com/user-attachments/assets/47a72e81-762f-4b37-9b90-cd0cd72162d5" />
+<img width="886" height="1240" alt="image" src="https://github.com/user-attachments/assets/5aa90f90-0b92-4ba2-81be-20157d5de622" />
+<img width="886" height="314" alt="image" src="https://github.com/user-attachments/assets/74ac034f-1459-456f-9033-ae8c56fe66a7" />
+
 
 # Output
 ```
